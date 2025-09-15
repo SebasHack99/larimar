@@ -2,7 +2,7 @@
 
 See the [BlueBuild docs](https://blue-build.org/how-to/setup/) for quick setup instructions for setting up your own repository based on this template.
 
-After setup, it is recommended you update this README to describe your custom image.
+My personal OS image based bazzite-nvidia-open stable with 1Password & Brave browser included. This allows the 1Password browser extension to integrate with the desktop application.
 
 ## Installation
 
